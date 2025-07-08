@@ -1,0 +1,22 @@
+{
+    "name": "erix-code/manage-git-modules-nwidart",
+    "type": "library",
+    "require": {
+        "php": "^8.0",
+        "illuminate/support": "^10.0",
+        "illuminate/facades": "^10.0",
+        "nwidart/laravel-modules": "^10.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ErixCode\\ManageGitModulesNwidart\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "erick",
+            "email": "erick.king.inc@gmail.com"
+        }
+    ]
+}
