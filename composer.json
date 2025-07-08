@@ -3,8 +3,8 @@
     "type": "library",
     "require": {
         "php": "^8.0",
-        "illuminate/support": "^10.0",
-        "illuminate/filesystem": "^10.0",
+        "illuminate/support": "^10.0|^11.0",
+        "illuminate/filesystem": "^10.0|^11.0",
         "symfony/process": "^6.0",
         "nwidart/laravel-modules": "^10.0"
     },
