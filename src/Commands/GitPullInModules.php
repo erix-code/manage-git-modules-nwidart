@@ -8,7 +8,7 @@ use File;
 
 class GitPullInModules extends Command
 {
-    protected $signature = 'git:pull-modules {branch=master}';
+    protected $signature = 'module:git-pull-modules {branch=master}';
     protected $description = 'Runs git pull in all subdirectories of the Modules directory';
 
     public function handle()

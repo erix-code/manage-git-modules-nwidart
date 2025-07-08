@@ -13,6 +13,13 @@
             "ErixCode\\ManageGitModulesNwidart\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "ErixCode\\ManageGitModulesNwidart\\ManageGitModulesNwidartServiceProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "erick",

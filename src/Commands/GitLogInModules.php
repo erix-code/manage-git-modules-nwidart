@@ -8,7 +8,7 @@ use File;
 
 class GitLogInModules extends Command
 {
-    protected $signature = 'git:log-modules';
+    protected $signature = 'module:git-log-modules';
     protected $description = 'Runs git log in all subdirectories of the Modules directory';
 
     public function handle()
